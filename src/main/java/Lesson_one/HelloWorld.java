@@ -6,6 +6,6 @@ public class HelloWorld {
         System.out.println("Hello world! My name is Maksym");
 
         System.out.println("QA Automation");
-
+        System.out.println("QA Automation";
     }
 }
